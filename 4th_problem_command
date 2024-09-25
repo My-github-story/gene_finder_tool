@@ -1,0 +1,1 @@
+find /Users/khant0a/Downloads/ncbi_dataset/ncbi_dataset/data -name "*.fna" -exec python3 /Users/khant0a/gene_finder_project/4th_problem.py {} \; >> output_4.txt
